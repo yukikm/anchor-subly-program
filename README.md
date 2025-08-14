@@ -1,3 +1,7 @@
+# Overview
+
+This protocol lets users stake or lend deposited tokens such as SOL so the resulting yield automatically funds their subscription fees. Subscription service providers receive “payment‑right” tokens that entitle them to this yield, and smart contracts distribute the fees to them at preset intervals. By eliminating the need to convert crypto earnings back to fiat, the platform offers seamless on‑chain payments for both subscription service providers and their customers.
+
 # Test Result
 
 ```
